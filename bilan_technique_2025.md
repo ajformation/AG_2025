@@ -50,11 +50,11 @@ Merci à **Guillaume** ❤️ pour les coups de main
 
 ### 2023
 
-- Mise en jachère pure, 🧑🏻‍🌾🪴
+- Mise en jachère pure 🧑🏻‍🌾🪴
 - très peu d'évolution 🕸️🕷️
-- Déconnection pendant un mois et demi, ⛔
-- perte de serveurs, 🪫
-- déconnection à répétition, ❌❗
+- Déconnection pendant un mois et demi ⛔
+- perte de serveurs 🪫
+- déconnection à répétition ❌❗
 - espace-temps contraint pour les 2 admins 😓
 
 ![bg 360% right:33%](./images/field-minnesota.gif)
@@ -62,8 +62,8 @@ Merci à **Guillaume** ❤️ pour les coups de main
 ### Été 2024
 
 - Grand nettoyage de printemps 🧽🧹🫧
-- validation des serveurs restants, ✅
-- remise en place de services, ➕
+- validation des serveurs restants ✅
+- remise en place de services ➕
 - réaménagement des services sur les serveurs 🔧
 - Création de nouveaux serveurs 🔌
 
@@ -97,7 +97,7 @@ Merci à **Guillaume** ❤️ pour les coups de main
 
 ### Été 2025
 
-- démarrage des nouveaux serveurs,
+- démarrage des nouveaux serveurs
 - pas encore utilisés
 
 ![bg right:33%](./images/crankstarting.gif)
@@ -124,15 +124,18 @@ On ne va pas s'arrêter là !
 - mise à niveau DNS, LDAP
 - mise à jour des services essentiels : mails, mailings listes, site web, etherpad
 - Retour des services
-  - stockage cloud,
-  - lufi,
+  - stockage cloud
+  - lufi
   - **Visioconférence**
 
 ![bg right:33%](./images/anime-cat-drawing.gif)
 
 ## Conclusion
 
-Si vous êtes intéressé venez...
+Si vous êtes intéressé
+
+Viendez ...
+![bg right:40%](images/you-come-here.gif)
 
 ---
 
@@ -140,7 +143,7 @@ Si vous êtes intéressé venez...
 >
 > 😋
 
-![bg right:70%](images/image.png)
+![bg right:70%](images/chocolate-chip-cookie-chewy.gif)
 
 ## Questions ?
 <!-- footer: ''-->
